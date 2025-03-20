@@ -1,17 +1,9 @@
 # CodSoft Internship - Web Development
-This repository contains the projects I completed as part of my CodSoft Internship in the Web Development domain. Each project demonstrates my skills in HTML, CSS, JavaScript, and modern web development techniques.
+As part of the CodSoft Internship in Web Development, I worked on three projects aimed at enhancing my front-end development skills. The objective was to build responsive, user-friendly, and interactive web applications using HTML, CSS, and JavaScript.
 
-Projects Overview
-Landing Page Project
+Each project was designed to address specific web development challenges:
 
-A visually appealing and responsive landing page designed using HTML, CSS, and JavaScript.
-Features an engaging layout, smooth navigation, and interactive elements.
-Calculator
-
-A functional and user-friendly calculator built with JavaScript.
-Supports basic arithmetic operations with a sleek UI and real-time calculations.
-Portfolio Website
-
-A personal portfolio website showcasing my skills, projects, and contact details.
-Built using HTML, CSS, and JavaScript, ensuring responsiveness and accessibility.
-Each project highlights my front-end development skills and my ability to build clean, responsive, and interactive web applications.
+Landing Page Project – Creating an engaging and visually appealing landing page with smooth navigation and interactive elements.
+Calculator – Developing a functional calculator with real-time arithmetic operations and a sleek UI.
+Portfolio Website – Designing a personal portfolio to showcase my skills, projects, and contact details in a professional manner.
+These projects helped me strengthen my UI/UX design, DOM manipulation, and JavaScript logic implementation while following best coding practices.
